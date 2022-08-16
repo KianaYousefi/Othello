@@ -1,2 +1,2 @@
 # Othello
-Basic Programming corse ME@IUST
+Basic Programming course ME@IUST
